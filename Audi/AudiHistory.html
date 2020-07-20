@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+div.a{
+  width: auto;
+  border: 1px solid black;
+}
+
+.hovereffect {
+width:100%;
+height:100%;
+float:left;
+overflow:hidden;
+position:relative;
+text-align:center;
+cursor:default;
+}
+
+.hovereffect .overlay {
+width:100%;
+height:100%;
+position:absolute;
+overflow:hidden;
+top:0;
+left:0;
+opacity:0;
+background-color:rgba(0,0,0,0.5);
+-webkit-transition:all .4s ease-in-out;
+transition:all .4s ease-in-out
+}
+
+.hovereffect img {
+display:center;
+width :70%;
+height:70%;
+position:relative;
+-webkit-transition:all .4s linear;
+transition:all .4s linear;
+}	
+
+.hovereffect h2 {
+
+color : white;
+text-align:center;
+position:relative;
+font-size:23px;
+background:rgba(0,0,,0.5);
+-webkit-transform:translatey(-100px);
+-ms-transform:translatey(-100px);
+transform:translatey(-100px);
+-webkit-transition:all .2s ease-in-out;
+transition:all .2s ease-in-out;
+padding:5px;
+}
+
+.hovereffect a.info {
+text-decoration:none;
+display:inline-block;
+text-transform:uppercase;
+color:#fff;
+border:1px solid #fff;
+background-color:transparent;
+opacity:0;
+filter:alpha(opacity=0);
+-webkit-transition:all .2s ease-in-out;
+transition:all .2s ease-in-out;
+margin:5px 0 0;
+padding:7px 14px;
+}
+
+.hovereffect a.info:hover {
+box-shadow:0 0 5px #fff;
+}
+
+.hovereffect:hover img {
+-ms-transform:scale(1.1);
+-webkit-transform:scale(1.1);
+transform:scale(1.1);
+}
+
+.hovereffect:hover .overlay {
+opacity:1;
+filter:alpha(opacity=100);
+}
+
+.hovereffect:hover h2,.hovereffect:hover a.info {
+opacity:1;
+filter:alpha(opacity=100);
+-ms-transform:translatey(0);
+-webkit-transform:translatey(0);
+transform:translatey(0);
+}
+
+.hovereffect:hover a.info {
+-webkit-transition-delay:.2s;
+transition-delay:.2s;
+}
+</style>
+</head>
+<body>
+
+
+<div class="a">
+    <div class="hovereffect">
+        <img class="img-responsive" src="AudiHistory.jpg" alt="Audi Car">
+        <div class="overlay">
+          <font color="white"> <h1>All About Audi</h1><br><br><br><br><br>
+		   <p><h2>Audi is one of the world’s leading premium brands and has been a member of the Volkswagen Group since 1965. The company has production facilities in Ingolstadt and Neckarsulm as well as in 16 other international locations. The difficult market environment and the WLTP test procedure posed challenges for Audi particularly in the first half of 2019. Nevertheless, the Audi brand delivered a total of 1.9 million vehicles to customers (+1.8%) and achieved an operating return on sales of 8.0 percent. “Vorsprung” is Audi’s active brand promise that is delivered throughout the world and that is currently being redefined by the brand with the four rings, as it moves away from the narrow focus on technical feasibility and towards a new approach, where the customer is at the center. In 2019, Audi expanded its vehicle range and celebrated over 20 market launches. The highlight of the year was the market introduction of the Audi e-tron. The all-electric SUV was rolled out in Europe, China and the USA. The vehicle stands out with a high-quality interior and is packed with technological highlights. The all-electric Q2L e-tron debuted on the Chinese market. With concept vehicles such as the e-tron GT concept, Q4 e-tron concept, AI:TRAIL, AI:ME and others, Audi showcased further potential in e-mobility and artificial intelligence. By 2025, Audi plans to bring more than 30 electrified models to market, including 20 with pure electric drive. Audi is thereby following its strategic focus and consistently pursuing sustainable premium mobility. Alongside the electrified models, the vehicles Audi presented in 2019 included the fourth generation of the bestselling A6 and the dynamic RS 7 Sportback.</h2></font></p>
+           <h1><a class="info" href="Audi.html">View Models..</a></h1>
+        </div>
+    </div>
+</div>
+
+</body>
+
+
+</html>

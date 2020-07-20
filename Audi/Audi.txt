@@ -1,0 +1,137 @@
+Audi
+=====================================-----
+Audi A3, 
+The Audi A3 Sedan.
+With innovative design and sophisticated technology, the Audi A3 Sedan is a perfect example of Vorsprung durch Technik. Available with 1.4 TFSI® petrol and 2.0 TDI® diesel engines – which deliver exceptional efficiency and performance. An impressive attention to detail in everything from the 17.78 cm slimline, electrically extending colour display screen to the luxurious leather seating making your driving experience both comfortable and unique.
+
+Key Specifications of Audi A3
+ARAI Mileage20.38 kmpl
+Fuel TypeDiesel
+Engine Displacement (cc)1968
+Max Power (bhp@rpm)143bhp@3500-4000rpm
+Max Torque (nm@rpm)320Nm@1750-3000rpm
+Seating Capacity5
+TransmissionTypeAutomatic
+Boot Space (Litres)425
+Fuel Tank Capacity 50
+Body Type Sedan
+
+----------------------------------
+Audi A4
+
+The A4 Sedan
+Even more powerful, more efficient, more intelligent: The Audi A4 Sedan combines technology and aesthetics to offer the most refined sedan experience in its class.. The innovative Audi virtual cockpit with its high-resolution 31.24 cms (12.3 inch) LCD screen, MMI Navigation with MMI Touch and inspiring accents in the interior offer a luxury-class standard.
+
+ARAI Mileage18.25 kmpl
+City Mileage12.53 kmpl
+Fuel TypeDiesel
+Engine Displacement (cc)1968
+Max Power (bhp@rpm)187.74bhp@3800-4200rpm
+Max Torque (nm@rpm)400Nm@1750-3000rpm
+Seating Capacity 5
+Transmission Type Automatic
+Boot Space (Litres)480
+Fuel Tank Capacity 54
+Body Type Sedan
+
+------------------------------
+Audi A5
+The Audi A5 has 1 Diesel Engine on offer. The Diesel engine is 1968 cc. It is available with the Automatic transmission. Depending upon the variant and fuel type the A5 has a mileage of 17.2 to 19.2 kmpl. The A5 is a 4 seater Convertible and has a length of 4673mm, width of 1846mm and a wheelbase of 2765mm
+
+ARAI Mileage17.2 kmplCity Mileage14.17 kmplFuel TypeDieselEngine Displacement (cc)1968Max Power (bhp@rpm)187.74bhp@3800-4200rpmMax Torque (nm@rpm)400nm@1750-3000rpmSeating Capacity4TransmissionTypeAutomaticBoot Space (Litres)320Fuel Tank Capacity58Body TypeConvertible
+=============================
+Audi A6
+The Audi A6 has 1 Petrol Engine on offer. The Petrol engine is 1984 cc. It is available with the Automatic transmission. The A6 is a 5 seater Sedan and has a length of 4933mm, width of 1874mm and a wheelbase of 2912mm.
+
+ARAI Mileage15.26 kmpl
+Fuel Type Petrol
+Engine Displacement (cc)1984
+Max Power (bhp@rpm)187.74bhp@4200-6200rpm
+Max Torque (nm@rpm)320Nm@1400-4100rpm
+Seating Capacity5
+TransmissionTypeAutomatic
+Boot Space (Litres)560
+Fuel Tank Capacity75
+Body TypeSedan
+----------------------------------
+
+Audi A7
+The Audi A7 has 1 Diesel Engine on offer. The Diesel engine is 2967 cc. It is available with the Automatic transmission. The A7 is a 5 seater Sedan and has a length of 4969mm, width of 2139mm and a wheelbase of 2914mm.
+
+Fuel TypeDiesel
+Engine Displacement (cc)2967
+Max Power (bhp@rpm)241.4bhp@4000-4500rpm
+Max Torque (nm@rpm)500Nm@1400-3250rpm
+Seating Capacity5
+TransmissionTypeAutomatic
+Boot Space (Litres)535
+Fuel Tank Capacity65
+Body TypeSedan
+
+==============================
+Audi A8
+The Audi A8 has 1 Petrol Engine on offer. The Petrol engine is 2995 cc. It is available with the Automatic transmission. The A8 is a 5 seater Sedan and has a length of 5302mm, width of 1945mm and a wheelbase of 3127mm.
+
+Fuel TypePetrol
+Engine Displacement (cc)2995
+Max Power (bhp@rpm)335.2@5000–6400
+Max Torque (nm@rpm)500nm@1370–4500
+Seating Capacity5
+TransmissionTypeAutomatic
+Fuel Tank Capacity72B
+ody TypeSedan
+
+
+Audi Q5
+The Audi Q5 has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 1968 cc while the Petrol engine is 1984 cc. It is available with the Automatic transmission. Depending upon the variant and fuel type the Q5 has a mileage of 8.5 to 17.01 kmpl. The Q5 is a 5 seater SUV and has a length of 4663mm, width of 2140mm and a wheelbase of 2819mm.
+
+ARAI Mileage8.5 kmpl
+Fuel TypePetrolEngine Displacement (cc)1984
+Max Power (bhp@rpm)248bhp@5000-6000rpm
+Max Torque (nm@rpm)370Nm@1600-4500rpm
+Seating Capacity5
+TransmissionTypeAutomatic
+Boot Space (Litres)550
+Fuel Tank Capacity70
+Body TypeSUV
+
+----------------------------
+Audi Q6
+It is available with the Automatic transmission. Depending upon the variant and fuel type the Q6 has a mileage of 11.0 kmpl. .
+
+ARAI Mileage11.0 kmpl
+City Mileage7.0 kmpl
+Fuel TypePetrol
+TransmissionTypeAutomatic
+Fuel Tank Capacity65
+Body TypeSUV
+-------------------------------
+
+Audi Q7
+The Audi Q7 has 1 Diesel Engine and 2 Petrol Engine on offer. The Diesel engine is 2967 cc while the Petrol engine is 2967 cc and 1984 cc. It is available with the Automatic transmission. Depending upon the variant and fuel type the Q7 has a mileage of 13.55 to 14.75 kmpl. The Q7 is a 7 seater SUV and has a length of 5052 mm, width of 2212 mm and a wheelbase of 2994 mm.
+
+ARAI Mileage14.75 kmpl
+Fuel TypeDiesel
+Engine Displacement (cc)2967
+Max Power (bhp@rpm)245bhp@2910-4500rpm
+Max Torque (nm@rpm)600Nm@1500-3000rpm
+Seating Capacity7
+TransmissionTypeAutomatic
+Boot Space (Litres)890
+Fuel Tank Capacity85
+Body TypeSUV
+	
+
+Audi Q8
+The Audi Q8 has 1 Petrol Engine on offer. The Petrol engine is 2995 cc. It is available with the Automatic transmission. The Q8 is a 5 seater SUV and has a length of 4986mm, width of 1995mm and a wheelbase of 2995mm.
+
+Fuel TypePetrol
+Engine Displacement (cc)2995
+Max Power (bhp@rpm)340bhp@5000-6400rpm
+Max Torque (nm@rpm)500nm@1370-4500rpm
+Seating Capacity5
+TransmissionTypeAutomatic
+Boot Space (Litres)605
+Fuel Tank Capacity85
+Body TypeSUV 
+
